@@ -19,5 +19,6 @@ vector<vector<double>> DataTraining = {
 };
 ```
 ### Test Data Example :
-
+```cpp
 vector<double> TestData {2.11112, 21, 3.2213};
+```
